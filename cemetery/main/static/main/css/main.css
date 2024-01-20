@@ -1,0 +1,21 @@
+
+body {
+    background-color:rgb(219, 246, 248);
+}
+p {
+    font-size: 30px;
+    font-weight: bolder;
+}
+li {
+    font-size: 40px;
+    color:#111010;          
+}
+table {
+    width: 200px; /* Ширина таблицы */
+    border-collapse: collapse; /* Убираем двойные линии между ячейками */
+   }
+   td {
+    padding: 15px; /* Поля вокруг содержимого таблицы */
+    border: 1px solid black; /* Параметры рамки */
+    
+   }
